@@ -88,7 +88,7 @@ My work spans **machine learning**, **AI model deployment**, and **data analytic
 ---
 
 ### 📬 Let’s Connect!
-💼 [LinkedIn](www.linkedin.com/in/linal-wickramaarachchi-b1b07b291)  
+💼 [LinkedIn](https://www.linkedin.com/in/linal-wickramaarachchi-b1b07b291/?trk=opento_sprofile_details)  
 📊 [Kaggle](https://www.kaggle.com/linalwick)
 📧 **linwick679@gmail.com**
 
