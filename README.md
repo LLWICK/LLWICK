@@ -11,7 +11,7 @@ My work spans **machine learning**, **AI model deployment**, and **data analytic
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing **BSc (Hons) in Data Science** at **SLIIT**
+- 🎓 Pursuing **BSc (Hons) Information Technology specializing in data science ** at **SLIIT**
 - 🧠 Focused on **Machine Learning**, **Deep Learning**, and **Data Engineering**
 - 💼 Experienced in **Data Analytics**, **AI model development**, and **end-to-end deployment**
 - 💬 Open to **AI/ML internship** and **data-driven innovation opportunities**
