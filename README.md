@@ -2,7 +2,7 @@
 ## 👋 Hi, I'm Linal Wickramaarachchi  
 
 🎓 **Data Science Undergraduate at SLIIT**  
-💡 **Data Analyst | AI/ML Enthusiast | Full-Stack AI Developer**
+💡 **Data Scientist | Data Analyst | AI/ML Enthusiast | Full-Stack AI Developer**
 
 Welcome to my GitHub!  
 I’m a passionate Data Science undergraduate focused on building intelligent systems that bridge data and decision-making.  
